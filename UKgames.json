@@ -1,0 +1,15 @@
+{
+  "files": {
+                "Y2015": "UKmball2015.json",
+                "Y2014": "UKmball2014.json"
+                },
+  "stats": {
+                "0": "Points",
+      		"1": "Fouls",
+		"2": "Assists",
+		"3": "Turnovers",
+		"4": "Blocks",
+		"5": "Steals",
+		"6": "YeartoDateAvg"
+                }
+}
